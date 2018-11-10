@@ -11,6 +11,6 @@ Using Apple's APIs to tap into audio capabilities.
 * Persistent Local Data Storage (Realm)
 
 ## Finished App
-![flashchat](xylotunes.gif)
+<img src="yourgif.gif" width="100" height="790">
 
 Copyright © Hector Mendoza
